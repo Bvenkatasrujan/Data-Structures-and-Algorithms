@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1980-find-unique-binary-string](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/1980-find-unique-binary-string) |
 ## String
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/0485-max-consecutive-ones) |
@@ -31,9 +33,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/0414-third-maximum-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/0283-move-zeroes) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
