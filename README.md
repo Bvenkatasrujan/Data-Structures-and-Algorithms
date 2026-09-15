@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/0485-max-consecutive-ones) |
+| [1470-shuffle-the-array](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/1470-shuffle-the-array) |
 | [1980-find-unique-binary-string](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/1980-find-unique-binary-string) |
 ## Backtracking
 |  |
