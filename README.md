@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/0229-majority-element-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1980-find-unique-binary-string](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/1980-find-unique-binary-string) |
 ## String
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/0485-max-consecutive-ones) |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/0414-third-maximum-number) |
 ## Two Pointers
 |  |
@@ -55,10 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/0229-majority-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
