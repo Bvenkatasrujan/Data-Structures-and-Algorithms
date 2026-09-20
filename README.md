@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/0392-is-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1980-find-unique-binary-string](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/1980-find-unique-binary-string) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/0392-is-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/0392-is-subsequence) |
 ## Math
 |  |
 | ------- |
