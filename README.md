@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/0680-valid-palindrome-ii) |
+| [0796-rotate-string](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/0796-rotate-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1980-find-unique-binary-string](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/1980-find-unique-binary-string) |
@@ -95,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/0680-valid-palindrome-ii) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
