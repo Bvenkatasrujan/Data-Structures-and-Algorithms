@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/0242-valid-anagram) |
+| [0409-longest-palindrome](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/0409-longest-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1980-find-unique-binary-string](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/1980-find-unique-binary-string) |
 ## String
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/0392-is-subsequence) |
+| [0409-longest-palindrome](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/0796-rotate-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0409-longest-palindrome](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/Bvenkatasrujan/Data-Structures-and-Algorithms/tree/master/0680-valid-palindrome-ii) |
 ## String Matching
 |  |
